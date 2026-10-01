@@ -1,0 +1,10 @@
+{
+  "name": "cabezones-fc-ultra",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Cabezones FC ULTRA: futbol 2D, torneo 2v2 con bots y online",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=20"},
+  "dependencies": {"express": "^5.1.0", "peer": "^1.0.2"}
+}
